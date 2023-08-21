@@ -1,20 +1,20 @@
 ﻿name;lastname;born;director_advise;voice;status;role
-Jose Francisco;Chambilla Miranda;12-12-1999;Sigue asi campeon;tenor;active;chorister
-Jose Manuel;Cornejo Lupa;13-12-1998;Sigue asi campeon;tenor;active;chorister
-Alonso;Rodriguez Miranda;14-12-1997;Sigue asi campeon;tenor;reserve;chorister
-Martin;Rodriguez Miranda;15-12-1996;Sigue asi campeon;bass;active;chorister
-Gabriel Emilio;Cornejo Lupa;16-12-1995;Sigue asi campeon;bass;active;chorister
-Sixto Eduardo;Aguayo Cornejo;17-12-1994;Sigue asi campeon;bass;reserve;chorister
-Ana Paula;Flores;18-12-1999;Sigue asi campeona;alto;active;chorister
-Angela;Machaca Diaz;19-12-1998;Sigue asi campeona;alto;active;chorister
-Mirly;Miranda Lupa;20-12-1997;Sigue asi campeona;alto;active;chorister
-Maria de los Angeles;Chambilla Miranda;21-12-1996;Sigue asi campeona;alto;active;chorister
-Maria;Rodriguez Miranda;22-12-1995;Sigue asi campeona;soprano;active;chorister
-Maria del Pilar;SN;23-12-1994;Sigue asi campeona;soprano;active;chorister
-Fatima;Toledo;24-12-1999;Sigue asi campeona;soprano;active;chorister
-Mayte;SN;25-12-1998;Sigue asi campeona;soprano;active;chorister
-Edgar;Alvarez;25-12-1997;Sigue asi campeon;;active;organist
-Sara;Velez;26-12-1996;Sigue asi campeona;;inactive;organist
-Maria Alejandra;Cornejo Lupa;27-12-1995;Sigue asi campeona;;inactive;organist
-Jose Francisco;Chambilla Miranda;12-12-1999;Sigue asi campeon;;active;conductor
-Jose Manuel;Cornejo Lupa;13-12-1998;Sigue asi campeon;;active;conductor
+Jose Francisco;Chambilla Miranda;1999-12-12;Sigue asi campeon;tenor;active;chorister
+Jose Manuel;Cornejo Lupa;1998-12-13;Sigue asi campeon;tenor;active;chorister
+Alonso;Rodriguez Miranda;1997-12-14;Sigue asi campeon;tenor;reserve;chorister
+Martin;Rodriguez Miranda;1996-12-15;Sigue asi campeon;bass;active;chorister
+Gabriel Emilio;Cornejo Lupa;1995-12-16;Sigue asi campeon;bass;active;chorister
+Sixto Eduardo;Aguayo Cornejo;1994-12-17;Sigue asi campeon;bass;reserve;chorister
+Ana Paula;Flores;1999-12-18;Sigue asi campeona;alto;active;chorister
+Angela;Machaca Diaz;1998-12-19;Sigue asi campeona;alto;active;chorister
+Mirly;Miranda Lupa;1997-12-20;Sigue asi campeona;alto;active;chorister
+Maria de los Angeles;Chambilla Miranda;1996-12-21;Sigue asi campeona;alto;active;chorister
+Maria;Rodriguez Miranda;1995-12-22;Sigue asi campeona;soprano;active;chorister
+Maria del Pilar;SN;1994-12-23;Sigue asi campeona;soprano;active;chorister
+Fatima;Toledo;1999-12-24;Sigue asi campeona;soprano;active;chorister
+Mayte;SN;1998-12-25;Sigue asi campeona;soprano;active;chorister
+Edgar;Alvarez;1997-12-25;Sigue asi campeon;;active;organist
+Sara;Velez;1996-12-26;Sigue asi campeona;;inactive;organist
+Maria Alejandra;Cornejo Lupa;1995-12-27;Sigue asi campeona;;inactive;organist
+Jose Francisco;Chambilla Miranda;1999-12-12;Sigue asi campeon;;active;conductor
+Jose Manuel;Cornejo Lupa;1998-12-13;Sigue asi campeon;;active;conductor
