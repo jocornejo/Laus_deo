@@ -1,21 +1,21 @@
-﻿personId;name;lastname;born;director_advise;voice;status;role
-1;Jose Francisco;Chambilla Miranda;1999-12-12;Sigue asi campeon;tenor;active;chorister
-2;Jose Manuel;Cornejo Lupa;1998-12-13;Sigue asi campeon;tenor;active;chorister
-3;Alonso;Rodriguez Miranda;1997-12-14;Sigue asi campeon;tenor;reserve;chorister
-4;Martin;Rodriguez Miranda;1996-12-15;Sigue asi campeon;bass;active;chorister
-5;Gabriel Emilio;Cornejo Lupa;1995-12-16;Sigue asi campeon;bass;active;chorister
-6;Sixto Eduardo;Aguayo Cornejo;1994-12-17;Sigue asi campeon;bass;reserve;chorister
-7;Ana Paula;Flores;1999-12-18;Sigue asi campeona;alto;active;chorister
-8;Angela;Machaca Diaz;1998-12-19;Sigue asi campeona;alto;active;chorister
-9;Mirly;Miranda Lupa;1997-12-20;Sigue asi campeona;alto;active;chorister
-10;Maria de los Angeles;Chambilla Miranda;1996-12-21;Sigue asi campeona;alto;active;chorister
-11;Maria;Rodriguez Miranda;1995-12-22;Sigue asi campeona;soprano;active;chorister
-12;Maria del Pilar;SN;1994-12-23;Sigue asi campeona;soprano;active;chorister
-13;Fatima;Toledo;1999-12-24;Sigue asi campeona;soprano;active;chorister
-14;Mayte;SN;1998-12-25;Sigue asi campeona;soprano;active;chorister
-15;Edgar;Alvarez;1997-12-25;Sigue asi campeon;;active;organist
-16;Sara;Velez;1996-12-26;Sigue asi campeona;;inactive;organist
-17;Maria Alejandra;Cornejo Lupa;1995-12-27;Sigue asi campeona;;inactive;organist
-1;Jose Francisco;Chambilla Miranda;1999-12-12;Sigue asi campeon;;active;conductor
-2;Jose Manuel;Cornejo Lupa;1998-12-13;Sigue asi campeon;;active;conductor
-3;Maria Alejandra;Cornejo Lupa;1995-12-27;Sigue asi campeona;alto;inactive;chorister
+﻿personId;name;lastname;born;director_advise;voice;status;role;is_leader
+1;Jose Francisco;Chambilla Miranda;12/12/1999;Sigue asi campeon;tenor;active;chorister;true
+2;Jose Manuel;Cornejo Lupa;13/12/1998;Sigue asi campeon;tenor;active;chorister;false
+3;Alonso;Rodriguez Miranda;14/12/1997;Sigue asi campeon;tenor;reserve;chorister;false
+4;Martin;Rodriguez Miranda;15/12/1996;Sigue asi campeon;bass;active;chorister;true
+5;Gabriel Emilio;Cornejo Lupa;16/12/1995;Sigue asi campeon;bass;active;chorister;false
+6;Sixto Eduardo;Aguayo Cornejo;17/12/1994;Sigue asi campeon;bass;reserve;chorister;false
+7;Ana Paula;Flores;18/12/1999;Sigue asi campeona;alto;active;chorister;false
+8;Angela;Machaca Diaz;19/12/1998;Sigue asi campeona;alto;active;chorister;false
+9;Mirly;Miranda Lupa;20/12/1997;Sigue asi campeona;alto;active;chorister;false
+10;Maria de los Angeles;Chambilla Miranda;21/12/1996;Sigue asi campeona;alto;active;chorister;true
+11;Maria;Rodriguez Miranda;22/12/1995;Sigue asi campeona;soprano;active;chorister;true
+12;Maria del Pilar;SN;23/12/1994;Sigue asi campeona;soprano;active;chorister;false
+13;Fatima;Toledo;24/12/1999;Sigue asi campeona;soprano;active;chorister;false
+14;Mayte;SN;25/12/1998;Sigue asi campeona;soprano;active;chorister;false
+15;Edgar;Alvarez;25/12/1997;Sigue asi campeon;;active;organist;
+16;Sara;Velez;26/12/1996;Sigue asi campeona;;inactive;organist;
+17;Maria Alejandra;Cornejo Lupa;27/12/1995;Sigue asi campeona;;inactive;organist;
+1;Jose Francisco;Chambilla Miranda;12/12/1999;Sigue asi campeon;;active;conductor;
+2;Jose Manuel;Cornejo Lupa;13/12/1998;Sigue asi campeon;;active;conductor;
+3;Maria Alejandra;Cornejo Lupa;27/12/1995;Sigue asi campeona;alto;inactive;chorister;false
