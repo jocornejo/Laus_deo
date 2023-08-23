@@ -1,0 +1,12 @@
+﻿name;year;duration;accessLevel;language;score;composer;personId;country;massMomentId;liturgicalTime
+pueblo de reyes;2000;120;public;español;SATB - ORG;Popular;18;SN;entrance;ordinary
+joanis paulis;2021;900;private;latin;SATB - ORG;Henryk Jan Botor;19;Poland;mass;ordinary
+aleluya lourdes;2000;60;public;latin;SATB - ORG;Popular;18;SN;aleluya;ordinary
+este es mi hijo, el amado;2000;60;public;español;UNISONO;Popular;18;SN;salm;ordinary
+heme aquí;2020;180;private;español;SATB - ORG;Marco Frisina;20;Italy;offertory;ordinary
+pescador;2000;180;public;español;UNISONO;Popular;18;SN;offertory;ordinary
+anima christi;2019;240;private;latin;SATB - ORG;Marco Frisina;20;Italy;comunion;ordinary
+pescador de hombres;2000;180;public;español;UNISONO;Popular;18;SN;comunion;ordinary
+padre nuestro - gregoriano;2000;120;public;latin;UNISONO;Popular;18;SN;our father;ordinary
+madre, confianza nuestra;2022;240;private;español;SATB - ORG;Marco Frisina;20;Italy;exit;ordinary
+salve regina;2000;180;public;latin;UNISONO;Popular;18;SN;marian antiphon;ordinary
